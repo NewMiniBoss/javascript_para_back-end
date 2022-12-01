@@ -1,4 +1,4 @@
-// null = ausência de valor
+// null = vazio ou nada
 let input = null;
 console.log(input); // null
 
