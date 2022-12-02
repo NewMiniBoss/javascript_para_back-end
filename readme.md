@@ -5,7 +5,7 @@
 - apredendo quais são os tipos de dados aceitos no JS e quando utilizar cada um
 - Praticando conceitos básicos e adquirindo conhecimentos sólidos
 
-## Acessar o projeto 📁
+## Acesso ao projeto 📁
 é necessário fazer download do arquivo e abrir em editor código fonte como o ``Visual Studio Code`` 
 
 ```
