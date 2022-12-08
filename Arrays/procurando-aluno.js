@@ -5,13 +5,16 @@ const escola = [
 ]
 // função
 function alunosENotas(aluno) {
-    if (escola[0].includes(aluno)) {
-        const indice = escola[0].indexOf(aluno)
-        const nota = escola[1][indice]
+    // const alunos = escola[0]
+    // const notas = escola[1]
+    const [alunos, notas] = escola // mesma coisa que em cima
+    if (alunos.includes(aluno)) {
+        const indice = alunos.indexOf(aluno)
+        const nota = notas[indice]
         console.log(`${aluno} está cadastrado e sua nota é ${nota}`)
     } else {
         console.log(`aluno não encontrado`)
     }
 }
 // chamando função
-alunosENotas('gabriel')
+alunosENotas('juliana')
