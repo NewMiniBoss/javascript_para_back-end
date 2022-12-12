@@ -12,6 +12,11 @@
 - Modificando arrays utilizando métodos do JS moderno (ES6 em diante)
 - Conhecendo o spread operator e como o JS entendendo referências de arrays
 - Praticando com os conceitos básicos e adquirindo conhecimentos sólidos
+### MODULO 3 
+- manipulando os objetos
+- entendendo o que são propriedades e métodos de um objeto
+- acessando dados em um objeto, alterar e adicionar com métodos do JS
+- utilizando o formato JSON
 
 ## Acesso ao projeto 📁
 é necessário fazer download do arquivo e abrir em um editor código fonte como o ``Visual Studio Code`` 
