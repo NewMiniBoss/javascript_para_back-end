@@ -21,7 +21,7 @@ ligaParaCliente(...cliente.telefone)
 
 const encomenda = {
     destinatario: cliente.nome,
-    endereco: cliente.enderecos[0],
+    ...cliente.enderecos[0],
 }
 
 console.log(encomenda)
